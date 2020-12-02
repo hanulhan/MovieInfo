@@ -7,6 +7,7 @@
         <groupId>com.hanulhan.movie</groupId>
 	<artifactId>info-master</artifactId>
         <version>0.1</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>discovery-server</artifactId>
